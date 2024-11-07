@@ -1,4 +1,7 @@
 body {
-    color:whitesmoke
-    background:steelblue 
+   display: inline-block;
+   color: whitesmoke;
+   background: steelblue;
+   margin: 60,px;
+   text-align: right;
 }
